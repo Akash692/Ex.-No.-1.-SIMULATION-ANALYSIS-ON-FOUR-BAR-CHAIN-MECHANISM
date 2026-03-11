@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 11/03/2026
 
 ## AIM:
 
@@ -20,11 +20,14 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+### 1. Draw the four bar chain ABCD using the given measurements: AD = 120 mm, AB = 30 mm, BC = 120 mm, and CD = 60 mm.
+### 2. Fix the link AD because it is the fixed link of the mechanism.
+### 3. Draw the crank AB making an angle of 60° with AD (∠BAD = 60°).
+### 4. From point B, draw the link BC with length 120 mm.
+### 5. From point D, draw the link CD with length 60 mm and join it with point C to complete the four bar chain.
+### 6. Assume the crank AB rotates clockwise at 100 rpm and determine the velocity of point B.
+### 7. Using the velocity diagram, find the velocities and angular velocities of the other links and study the displacement and velocity of the mechanism.
+  
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
