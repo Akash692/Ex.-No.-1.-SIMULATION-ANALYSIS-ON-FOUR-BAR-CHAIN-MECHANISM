@@ -31,13 +31,20 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
-###   This value of VBA is used to decide the scale for the velocity diagram 
-###   Let us construct the velocity diagram taking a scale: 
-###   0.3141 m/s = 60 mm (say) 
-###   1. The fixed link AD, appears as a point in the velocity diagram 
-###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
-###   3. From b, draw vector bc perpendicular to BC
-###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
+### The value of VBA is used to decide the scale for the velocity diagram.
+
+Let us draw the velocity diagram by taking the scale as:
+0.3141 m/s = 60 mm (approximately).
+
+The fixed link AD is represented as a single point in the velocity diagram.
+
+From point a, draw a line ab = 60 mm.
+This line should be perpendicular to AB in the configuration diagram and drawn in the direction of velocity (downward direction).
+
+From point b, draw the vector bc which is perpendicular to BC.
+
+From point (a,d), draw the vector cd which is perpendicular to CD.
+This line will intersect the previous vector at point c.  
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/76094ae8-a8af-48f3-b2c4-472ab800cc8e)
 
