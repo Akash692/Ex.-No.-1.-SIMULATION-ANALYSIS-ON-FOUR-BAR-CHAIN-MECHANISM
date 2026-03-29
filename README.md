@@ -70,8 +70,7 @@ This line will intersect the previous vector at point c.
 
 
 
-### Name: A.Infant Vijay
-### Register Number: 212225240052
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
