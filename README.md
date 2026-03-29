@@ -63,8 +63,8 @@ This line will intersect the previous vector at point c.
 
 
 ## Output:
-### Acceleration analysis of Grashof four bar mechanism
-<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/487aa571-c400-4093-8f08-4784110270a8" />
+
+<img width="726" height="1018" alt="image" src="https://github.com/user-attachments/assets/29bd87ea-7476-429a-a2fe-4fa3dd7d3760" />
 
 
 
