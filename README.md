@@ -66,8 +66,8 @@ This line will intersect the previous vector at point c.
 
 <img width="726" height="1018" alt="image" src="https://github.com/user-attachments/assets/29bd87ea-7476-429a-a2fe-4fa3dd7d3760" />
 
-
-
+NAME:S.T.DHANAAAKHAASH
+REGISTER NO:212224240032
 
 
 
